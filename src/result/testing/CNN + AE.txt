@@ -1,0 +1,25 @@
+577/577 ━━━━━━━━━━━━━━━━━━━━ 8s 12ms/step
+[CNN_AE] F1-score on test_1 = 0.9183 with threshold = 0.000316
+
+------------------- REPORT FOR CNN + AE FOR DATASET 1 -------------------
+              precision  recall  f1-score  support
+
+0.0                0.94    0.89      0.92    16465
+1.0                0.91    0.92      0.91     1968
+
+accuracy                             0.91    18433
+macro avg          0.90    0.98      0.94    18433
+weighted avg       0.89    0.86      0.87    18433
+
+316/316 ━━━━━━━━━━━━━━━━━━━━ 6s 14ms/step
+[CNN_AE] F1-score on test_2 = 0.8622 with threshold = 0.000316
+
+------------------- REPORT FOR CNN + AE FOR DATASET 2 -------------------
+              precision  recall  f1-score  support
+
+0.0                0.91    0.90      0.90     8453
+1.0                0.87    0.84      0.86     1628
+
+accuracy                             0.88    10081
+macro avg          0.95    0.96      0.95    10081
+weighted avg       0.84    0.84      0.84    10081

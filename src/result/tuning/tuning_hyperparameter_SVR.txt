@@ -1,0 +1,2 @@
+Best C = 20.0, epsilon = 0.005
+F1=0.7334 | threshold=0.000168

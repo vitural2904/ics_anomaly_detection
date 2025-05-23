@@ -1,0 +1,24 @@
+[SVR] F1-score on test_1 = 0.8901 with threshold = 0.000168
+
+------------------- REPORT FOR SVR FOR DATASET 1 -------------------
+              precision  recall  f1-score  support
+
+0.0                0.98    0.97      0.97    16465
+1.0                0.85    0.93      0.89     1968
+
+accuracy                             0.95    18433
+macro avg          0.92    0.98      0.95    18433
+weighted avg       0.96    0.95      0.95    18433
+
+
+[SVR] F1-score on test_2 = 0.8652 with threshold = 0.000168
+
+------------------- REPORT FOR SVR FOR DATASET 2 -------------------
+              precision  recall  f1-score  support
+
+0.0                0.95    0.97      0.96     8453
+1.0                0.89    0.83      0.86     1628
+
+accuracy                             0.93    10081
+macro avg          0.92    0.93      0.92    10081
+weighted avg       0.93    0.93      0.93    10081

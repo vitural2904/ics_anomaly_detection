@@ -1,0 +1,24 @@
+[ADABOOST] F1-score on test_1 = 0.9242 with threshold = 0.000132
+
+------------------- REPORT FOR ADABOOST FOR DATASET 1 -------------------
+              precision  recall  f1-score  support
+
+0.0                0.96    0.98      0.97    16465
+1.0                0.90    0.93      0.92     1968
+
+accuracy                             0.94    18433
+macro avg          0.93    0.88      0.90    18433
+weighted avg       0.94    0.94      0.94    18433
+
+
+[ADABOOST] F1-score on test_2 = 0.8991 with threshold = 0.000132
+
+------------------- REPORT FOR ADABOOST FOR DATASET 2 -------------------
+              precision  recall  f1-score  support
+
+0.0                0.92    0.98      0.95     8453
+1.0                0.93    0.86      0.89     1628
+
+accuracy                             0.91    10081
+macro avg          0.92    0.85      0.88    10081
+weighted avg       0.91    0.91      0.91    10081

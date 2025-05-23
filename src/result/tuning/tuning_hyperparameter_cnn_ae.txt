@@ -1,0 +1,6 @@
+num_layers=4, units=[28, 14, 9, 4] | F1=0.7856, threshold=0.000113
+num_layers=5, units=[28, 20, 14, 7, 4] | F1=0.8416, threshold=0.000316
+num_layers=6, units=[42, 35, 28, 20, 12, 4] | F1=0.8040, threshold=0.000912
+num_layers=7, units=[42, 28, 14, 9, 4, 2, 1] | F1=0.7894, threshold=0.000836
+Best num_layers = 5, units_per_layer = [28, 20, 14, 7, 4]
+F1=0.8416 | threshold=0.000316
